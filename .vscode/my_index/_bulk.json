@@ -1,0 +1,7 @@
+{ "index": { "_id": 1 } }
+{ "package": "package1", "value": 100 }
+{ "index": { "_id": 2 } }
+{ "package": "package2", "value": 200 }
+...
+{ "index": { "_id": 1000000 } }
+{ "package": "package1000000", "value": 1000000 }

@@ -1,0 +1,9 @@
+{
+    "mappings": {
+      "properties": {
+        "package": { "type": "keyword" },
+        "value": { "type": "integer" }
+      }
+    }
+  }
+  
